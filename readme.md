@@ -1,13 +1,13 @@
 # Projeto XXXX
 ## FPRO/MIEIC, 2021/22
-## Fulano de Tal (up2021xxxxx)
+## Tomás Sarmento (up202108778)
 ## 1MIEICXX
 
 ### Objetivo
 
 1. Criar um clone do clássico Sokoban em Pygame...
 
-2. Em alternativa... do clássico x em Pygame.
+2. Em alternativa do clássico Jump'n Bump em Pygame.
 
 ### Repositório de código
 
@@ -26,9 +26,7 @@
 
 ### Descrição
 
-*---É um jogo de puzzle em que o objetivo do jogo é empurrar caixotes para um sítio indicado. 
-Para empurrar o caixote é preciso ir ao outro lado empurrá-lo. 
-Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Estamos a utilizar os níveis do XSokoban.---*
+*---É um jogo de multiplayer em que o objetivo é matar o outro player(saltar de forma a darlhe com os pes na cabeça) ate que as mortes excedão 6 o jogador como mais kills ganha*
 
 ### UI
 
