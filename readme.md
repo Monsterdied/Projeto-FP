@@ -30,7 +30,7 @@
 
 ### UI
 Player 1 - (A , W , S)
-Player 2 - setas (← , ↑ , →)
+     Player 2 - setas (← , ↑ , →)
 ![UI](ui.png)
 
 ### Pacotes
