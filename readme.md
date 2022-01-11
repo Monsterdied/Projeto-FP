@@ -29,7 +29,8 @@
 *---É um jogo de multiplayer em que o objetivo é matar o outro player(saltar de forma a darlhe com os pes na cabeça) ate que as mortes excedão 6 o jogador como mais kills ganha*
 
 ### UI
-
+Player 1 - (A , W , S)
+Player 2 - setas (← , ↑ , →)
 ![UI](ui.png)
 
 ### Pacotes
