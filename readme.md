@@ -26,7 +26,7 @@
 
 ### Descrição
 
-*---É um jogo de multiplayer em que o objetivo é matar o outro player(saltar de forma a darlhe com os pes na cabeça) ate que as mortes excedão 6 o jogador como mais kills ganha*
+*---É um jogo de multiplayer em que o objetivo é matar o outro player(saltar de forma a dar lhe com os pes na cabeça) ate que as mortes excedão o valor determinado default 4, o jogador como mais kills ganha*
 
 ### UI
 Player 1 - (A , W , S)
