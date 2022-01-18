@@ -43,6 +43,6 @@ Player 1 - (A , W , S)
 1. desenhar a matriz do nível
 1. ler teclas e mover as peças
 1. fazer um menu
-2. verificar se jogo ja acabou
+2. aplicar animações
 
 - Atualizado a última vez em 07/12/2021
