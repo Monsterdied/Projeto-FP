@@ -36,7 +36,7 @@ Player 1 - (A , W , S)
 ### Pacotes
 
 - Pygame
-- Pygame_menu ??
+- Pygame_menu
 
 ### Tarefas
 
