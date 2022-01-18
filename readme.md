@@ -40,9 +40,9 @@ Player 1 - (A , W , S)
 
 ### Tarefas
 
-1. carregar os níveis
 1. desenhar a matriz do nível
 1. ler teclas e mover as peças
-2. verificar se jogador chegou ao fim do nível
+1. fazer um menu
+2. verificar se jogo ja acabou
 
 - Atualizado a última vez em 07/12/2021
