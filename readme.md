@@ -1,5 +1,5 @@
 # Projeto XXXX
-## FPRO/MIEIC, 2021/22
+## FPRO/lEIC, 2021/22
 ## Tomás Sarmento (up202108778)
 ## 1lEIC02
 
