@@ -5,7 +5,7 @@
 
 ### Objetivo
 
-1. Criar um clone do clássico Sokoban em Pygame...
+1. Criar um clone do clássico Jump'n Bump em Pygame...
 
 2. Em alternativa do clássico Jump'n Bump em Pygame.
 
