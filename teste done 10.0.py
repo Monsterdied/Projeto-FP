@@ -515,13 +515,13 @@ def start_the_game(player1,player2):
         die_checker = [[josefino_x,josefino_y],[spedy_x,spedy_y]]
         #dead
         if (spedy_vy > 0) : 
-            if spedy_x+spedy_SIZE/2 >= josefino_x  and spedy_x<= josefino_x + spedy_SIZE/2 and spedy_y+(spedy_size_actual_y-int(20*multi_y))/2 >= josefino_y and spedy_y+int(10*multi_y) < josefino_y and death_josefino_anime == 0 and death_spedy_anime ==0:
+            if spedy_x+spedy_SIZE/2 >= josefino_x  and spedy_x<= josefino_x + spedy_SIZE/2 and spedy_y+(spedy_size_actual_y+int(20*multi_y))/2 >= josefino_y and spedy_y+int(10*multi_y) < josefino_y and death_josefino_anime == 0 and death_spedy_anime ==0:
                 score[0]+=1
                 death_josefino_anime = 1   
                 spedy_vy = -1*multi_y            
 
         if (josefino_vy > 0) : 
-            if josefino_x+josefino_SIZE/2 >= spedy_x  and josefino_x<= spedy_x + josefino_SIZE/2 and josefino_y+(josefino_size_actual_y-int(20*multi_y))/2 >= spedy_y and josefino_y +int(10*multi_y)< spedy_y and death_spedy_anime == 0 and death_josefino_anime ==0:
+            if josefino_x+josefino_SIZE/2 >= spedy_x  and josefino_x<= spedy_x + josefino_SIZE/2 and josefino_y+(josefino_size_actual_y+int(20*multi_y))/2 >= spedy_y and josefino_y +int(10*multi_y)< spedy_y and death_spedy_anime == 0 and death_josefino_anime ==0:
                 score[1]+=1
                 josefino_vy = -1*multi_y
                 death_spedy_anime = 1
